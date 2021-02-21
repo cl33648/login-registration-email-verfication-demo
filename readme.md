@@ -1,6 +1,8 @@
 
 #LoginRegistrationEmail
 
+![](diagram/LoginRegistrationEmail_diagram.png)
+
 ## Description
 My Personal Side Project of Learning User Registration and Verification Process using Spring
 
